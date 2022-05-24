@@ -1,0 +1,7 @@
+package RodneyClient.event.impl;
+
+import EclipseClient.event.Event;
+
+public class RenderEvent extends Event {
+
+}

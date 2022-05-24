@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="RodneyClient.client"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.gui.GuiMultiplayer"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.multiplayer.GuiConnecting"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Target"/>
+    <fullyQualifiedTypeName name="java.lang.annotation.Retention"/>
+    <fullyQualifiedTypeName name="java.lang.reflect.Method"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.awt.Event"/>
+    <fullyQualifiedTypeName name="RodneyClient.event.Event"/>
+    <fullyQualifiedTypeName name="RodneyClient.event.impl.RenderEvent"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.Minecraft"/>
+    <fullyQualifiedTypeName name="net.minecraft.client.gui.ScaledResolution"/>
+    <fullyQualifiedTypeName name="RodneyClient.featuredserversdata"/>
+</qualifiedTypeNameHistroy>

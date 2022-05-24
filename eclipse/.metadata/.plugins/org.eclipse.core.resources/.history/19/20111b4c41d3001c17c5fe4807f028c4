@@ -1,0 +1,14 @@
+package RodneyClient;
+
+import net.minecraft.client.multiplayer.ServerData;
+import net.minecraft.util.ResourceLocation;
+
+public class featuredserversdata extends ServerData {
+	
+	public static final ResourceLocation STARICON = new ResourceLocation("RodneyClient/gui/mainmenu/star.png");
+
+	public featuredserversdata(String serverName, String serverIP) {
+		super(serverName, serverIP, false);
+	}
+
+}

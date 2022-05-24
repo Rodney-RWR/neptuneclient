@@ -1,0 +1,22 @@
+package RodneyClient;
+
+public class client {
+	private static final client INSTANCE = new client();
+	public static final client getInstance() {
+		return INSTANCE;
+	}
+	
+	private DiscordRP discordrp = new DiscordRP();
+	
+	public void init( ) {
+		discordrp.start();
+		
+	}
+	
+	public void shutdown() {
+		discordrp.shutdown();
+	}
+	public DiscordRP getDiscordRP() {
+		return discordrp;
+	}
+}
